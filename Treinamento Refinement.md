@@ -1,6 +1,6 @@
 # Treinamento de Refinement <h1>
 ## 1. Apresentação - Wagner <h2>
-### 2. Deveres e papeis <h3>
+## 2. Deveres e papeis <h2>
 		2.1 Atividades PM
 			2.1.1  Gestão dos PO's 
 			2.1.2  Comunicação com o Time
