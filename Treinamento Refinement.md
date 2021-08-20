@@ -1,7 +1,7 @@
-# Treinamento de Refinement <h1>
-## 1. Apresentação - Wagner <h2>
-## 2. Deveres e papeis <h2>
-		2.1 Atividades PM
+***Treinamento de Refinement***
+# 1. Apresentação - Wagner <h1>
+# 2. Deveres e papeis <h1>
+	2.1 Atividades PM
 			2.1.1  Gestão dos PO's 
 			2.1.2  Comunicação com o Time
 			2.1.3  Engajamento do time
@@ -18,8 +18,7 @@
 		2.2 Necessidades
 			2.2.1 Refinado dentro do backlog pelo menos 2 sprints
 			2.2.2 Refinamentos 
-				2.2.2.1 Histórias refinadas entrando na sprint e que não são aderentes
-	3. Techleads
+# 3. Techleads
 		3.1 Deveres
 			3.1.1  Sinalizar aos devs para trazer as regras de negócio dentro do código para que os PO's complementem as histórias
 			3.1.2  Refinar com o time
@@ -30,13 +29,13 @@
 			3.1.7  Trazer novas tecnologias
 			3.1.8  Evitar que os squads atuem em atividades não planejadas
 			3.1.9  Alinhar estratégias de desenvolvimento
-			3.1.10 Incentivar a utilização dos chapters (Mão de obra das squads de apoio, QA, integrações, etc...)
-	4. QA's
+			3.1.10 Incentivar a utilização dos chapters, não trabalhar sozinho (Mão de obra das squads de apoio, QA, integrações, etc...)
+# 4. QA's
 		4.1 Validas critérios de aceitação.
 		4.2 Garantir a qualidade
 		4.3 
 		4.4 Executar os testes e garantir que o que foi pedido será recebido
-	5. Chapter Lead
+# 5. Chapter Lead
 		5.1 Deveres
 			5.1.1 Atua em todas as squads
 			5.1.2 Acompanha os projetos
@@ -46,7 +45,7 @@
 			5.1.6 Acompanhamento dos projetos
 			5.1.7 Acompanhamento e validação das entregas
 			
-	6. Backlog
+# 6. Backlog
 		6.0 Que tenha valor para o negócio
 		6.1 Histórias bem entendidas no refinament para seguir para a planning
 		6.2	Bem organizado
@@ -54,7 +53,7 @@
 		6.4 Priorizada
 		6.5 Bem estimado e entendido
 		
-	7. Refining
+# 7. Refining
 		7.1 Definition of ready
 			7.1.1 QA precisa validar se a demanda está ready, se não estiver a demanda volta para refinamento.
 			
