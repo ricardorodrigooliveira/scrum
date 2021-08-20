@@ -18,7 +18,7 @@
 	2.2 Necessidades
 		2.2.1 Refinado dentro do backlog pelo menos 2 sprints
 		2.2.2 Refinamentos 
-# 3. Techleads
+# 3. Techleads <h1>
 	3.1 Deveres
 		3.1.1  Sinalizar aos devs para trazer as regras de negócio dentro do código para que os PO's complementem as histórias
 		3.1.2  Refinar com o time
@@ -30,12 +30,12 @@
 		3.1.8  Evitar que os squads atuem em atividades não planejadas
 		3.1.9  Alinhar estratégias de desenvolvimento
 		3.1.10 Incentivar a utilização dos chapters, não trabalhar sozinho (Mão de obra das squads de apoio, QA, integrações, etc...)
-# 4. QA's
+# 4. QA's <h1>
 	4.1 Validas critérios de aceitação.
 	4.2 Garantir a qualidade
 	4.3 
 	4.4 Executar os testes e garantir que o que foi pedido será recebido
-# 5. Chapter Lead
+# 5. Chapter Lead <h1>
 	5.1 Deveres
 		5.1.1 Atua em todas as squads
 		5.1.2 Acompanha os projetos
@@ -45,7 +45,7 @@
 		5.1.6 Acompanhamento dos projetos
 		5.1.7 Acompanhamento e validação das entregas
 			
-# 6. Backlog
+# 6. Backlog <h1>
 	6.0 Que tenha valor para o negócio
 	6.1 Histórias bem entendidas no refinament para seguir para a planning
 	6.2	Bem organizado
@@ -53,7 +53,7 @@
 	6.4 Priorizada
 	6.5 Bem estimado e entendido
 		
-# 7. Refining
+# 7. Refining <h1>
 	7.1 Definition of ready
 		7.1.1 QA precisa validar se a demanda está ready, se não estiver a demanda volta para refinamento.
 		
@@ -71,13 +71,13 @@
 			
 		7.3.3 Planning
 			
-# 8. Decomposição
+# 8. Decomposição <h1>
 	* Trabalhar com tarefas melhores
 	
-# 9. Épico
+# 9. Épico <h1>
 	* Decompor e transformar em várias histórias
 	
-# 10. História
+# 10. História <h1>
 	* Pequenos requisitos ou soluções escritas pela perspectiva de um usuário
 	
 	Narrativas (O que é?)
@@ -96,5 +96,3 @@
 					Qual é o grande problema que precisa de solução?
 	Requisitos técnicos
 	Critérios de aceite ( no mínimo 3 )
-	
-			
