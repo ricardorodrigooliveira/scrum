@@ -1,7 +1,7 @@
 ***Praticas de Refinamento de Backlog***
 # 1. Apresentação - Wagner <h1>
 # 2. Deveres e papeis <h1>
-	2.1 Atividades PM
+	2.1 Atividades PM's e PO's
 		2.1.1  Gestão dos PO's 
 		2.1.2  Comunicação com o Time
 		2.1.3  Engajamento do time
